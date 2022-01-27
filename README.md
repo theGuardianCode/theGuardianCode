@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theGuardianCode
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning mods subjects in high school
+- 🌱 I’m currently learning most subjects in high school
 
 <!---
 theGuardianCode/theGuardianCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
