@@ -72,9 +72,3 @@ while True:
         break
     print("\nInput is invalid")
     continue
-
-
-    
-# Future ideas:
-# Add input for directory
-# Sort files with keyword in name into matching folder
