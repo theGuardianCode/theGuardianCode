@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @theGuardianCode
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning most subjects in high school
-
-<!---
-theGuardianCode/theGuardianCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For the program to sort your files they must follow these naming conditions:
+- Must have the subject and term written in brackets as follows e.g. "science report (Science 4)".
+- In the above example "Science" is the subject and "4" is the term.
+- The subject that is written in brackets must exactly match the name of the destination folder.
+- The file's name cannot have any other pairs of brackets.
