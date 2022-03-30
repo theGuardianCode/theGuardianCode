@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theGuardianCode
-- 👀 I’m interested in python programming
+- 👀 I’m interested in python programming and web development
 - 🌱 I’m currently learning most subjects in high school
 
 <!---
